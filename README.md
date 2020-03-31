@@ -12,8 +12,8 @@ XOR Operations\
 Packet Lifetime
 
 ### Non-Homogeneous Channel setting
-Ordinary Procedure\
-Modified Procedure
+Ordinary Procedure \
+Modified Procedure ( We do the simulation for Corner point B and it is similar for Corner point A)
 
 ### Stable Throughput Region When Capacity Region Is Unkown
 Ordinary Procedure\
