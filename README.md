@@ -19,5 +19,5 @@ Modified Procedure ( We do the simulation for Corner point B and it is similar f
 Ordinary Procedure\
 Modified Procedure
 
-#### Sajjad Nassirpour     Alireza VAhid
+#### Sajjad Nassirpour     Alireza Vahid
 #### Electrical Engineering at University of Colorado Denver
