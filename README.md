@@ -7,9 +7,7 @@ Simulation Codes contain following results:\
 
 ### Homogeneous Channel setting
 Ordinary Procedure\
-Modified Procedure\
-XOR Operations\
-Packet Lifetime
+Modified Procedure
 
 ### Non-Homogeneous Channel setting
 Ordinary Procedure \
@@ -18,6 +16,9 @@ Modified Procedure ( We do the simulation for Corner point B and it is similar f
 ### Stable Throughput Region When Capacity Region Is Unkown
 Ordinary Procedure\
 Modified Procedure
+
+### XOR Operations
+### Packet Lifetime
 
 #### Sajjad Nassirpour     Alireza Vahid
 #### Electrical Engineering at University of Colorado Denver
