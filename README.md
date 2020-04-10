@@ -15,5 +15,7 @@ Modified Procedure
 ### XOR Operations
 ### Packet Lifetime
 
+NOTE: Every code has two .csv files which represent the packet movement rules between queues.
+
 #### Sajjad Nassirpour     Alireza Vahid
 #### Electrical Engineering at University of Colorado Denver
