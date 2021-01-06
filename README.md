@@ -1,6 +1,6 @@
 ##  On the Stability Region of Intermittent Interference Networks
 These simulation codes are evaluated the results of the paper. Our simulations are done in Python through "Jupyter Notebook" software and each simulation code has two .csv files which represent the packet movement rules between queues.\
-Simulation Codes contain following results:\
+Simulation Codes contain following results:
 
 ### Non-homogeneous Channel setting
 Symmetric Channels\
